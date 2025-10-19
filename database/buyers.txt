@@ -1,0 +1,5 @@
+1|Alice|alice@example.com|08123456789|Wonderland|1
+2|Bob|bob@example.com|08234567890|Builder St|0
+3|Gideon|gideon@exmple.com|098765765|ageaig|1
+4|Gideon|gideon@example.com|09876|agena|0
+5|Buyer|buyer@example.com|98765|agi|1
